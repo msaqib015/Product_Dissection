@@ -113,4 +113,3 @@ You are free to:
 > **Disclaimer:** All logos, trademarks, and screenshots used are the property of their respective owners (e.g., Zomato) and are included here under fair use for educational, non-commercial analysis only.
 
 ---
-```
